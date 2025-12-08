@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ace"
+version = "0.0.1"
+description = "Autmatic Chord Estimator (ACE)"
+authors = [
+  { name="Fatih Karpuz", email="fatih.karpuz@outlook.de" }
+]
+dependencies = []
