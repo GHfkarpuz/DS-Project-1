@@ -8,3 +8,4 @@ def test_solver_sum():
 def test_solver_empty():
     s = Solver()
     assert s.solve() == 0.0
+    

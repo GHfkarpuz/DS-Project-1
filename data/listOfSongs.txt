@@ -1,0 +1,5 @@
+# List to keep track of the used songs for the training in the format (Number, Title, Artist)
+1, Ömrüm, Cem Karaca
+2, Islak islak, Cem Karaca
+3, Hello, Lionlel Richie
+4, Emrah, Cem Karaca
