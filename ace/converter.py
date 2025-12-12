@@ -1,6 +1,5 @@
 from pydub import AudioSegment
 
-
 def convert_mp3_to_wav(mp3_file, output_file=None):
     """
     Converts a MP3-file in WAV with 44.1 kHz Mono.
